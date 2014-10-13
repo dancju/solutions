@@ -1,0 +1,10 @@
+---
+BasedOnStyle: WebKit
+AccessModifierOffset: -2
+AllowShortCaseLabelsOnASingleLine: true
+AlwaysBreakBeforeMultilineStrings: true
+BreakBeforeBraces: Attach
+BreakConstructorInitializers: BeforeColon
+ColumnLimit: 80
+IncludeBlocks: Merge
+IndentWidth: 2
